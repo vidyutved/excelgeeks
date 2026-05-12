@@ -5,15 +5,15 @@ ExcelGeeks is a lightweight and distraction-free study platform designed for col
 self-learners. It helps users organize, manage, and access study material locally through a clean interface
 without requiring an internet connection.
 
-##How to Launch
+## How to Launch
 
-#Windows:
+# Windows:
 Double-click Start_ExcelGeeks.bat
 
-#macOS:
+# macOS:
 Double-click Start_ExcelGeeks.command
 
-#Linux:
+# Linux:
 Run bash Start_ExcelGeeks.sh in the terminal
 After launching the application, the browser opens automatically at:
 http://localhost:8765
@@ -21,10 +21,10 @@ Default password:
 excel@geeks
 Adding Study Material
 
-#Step 1:
+# Step 1:
 Prepare your HTML files. Each study page should be a single .html file.
 
-#Step 2:
+# Step 2:
 Move your HTML files into the pages folder.
 Example structure:
 ExcelGeeks/
@@ -37,23 +37,23 @@ cpp_oops.html
 java_basics.html
 dbms_notes.html
 
-#Step 3:
+# Step 3:
 Start ExcelGeeks using the launcher for your operating system.
 
-#Step 4:
+# Step 4:
 Open the Content Manager from the sidebar.
 
-#Step 5:
+# Step 5:
 Assign study pages to topics.
 Example:
 C++ OOPs
 Classes and Objects -> cpp_intro.html
 Constructors -> constructors.html
 
-#Step 6:
+# Step 6:
 Save the mapping.
 
-#Step 7:
+# Step 7:
 Open any subject and access the linked study pages.
 Requirements
 Python 3.7 or above
